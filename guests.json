@@ -1,0 +1,63 @@
+[
+
+    {
+        "name": "Jan",
+        "location": "Rotterdam",
+        "guest_of": "Hardwell",
+        "favourite_dj": "Tiesto"
+    },
+    {
+        "name": "Piet",
+        "location": "Amsterdam",
+        "guest_of": "Tiesto",
+        "favourite_dj": "DaftPunk"
+    },
+    {
+        "name": "John",
+        "location": "Cartagena",
+        "guest_of": "Tiesto",
+        "favourite_dj": "Avici"
+    },
+    {
+        "name": "Daniela",
+        "location": "Bogota",
+        "guest_of": "Afrojack",
+        "favourite_dj": "Tiesto"
+    },
+    {
+        "name": "Almeja",
+        "location": "Munchen",
+        "guest_of": "Afrojack",
+        "favourite_dj": "Matrin Garrix"
+    },
+    {
+        "name": "Valentina",
+        "location": "New York",
+        "guest_of": "Hardwell",
+        "favourite_dj": "Armin van Buuren"
+    },
+    {
+        "name": "Chris",
+        "location": "Miami",
+        "guest_of": "Afrojack",
+        "favourite_dj": "Don Diablo"
+    },
+    {
+        "name": "Mack",
+        "location": "Los Angeles",
+        "guest_of": "Hardwell",
+        "favourite_dj": "Oliver Heldens"
+    },
+    {
+        "name": "Henry",
+        "location": "Singapore",
+        "guest_of": "Tiesto",
+        "favourite_dj": "Matrin Garrix"
+    },
+    {
+        "name": "Ineke",
+        "location": "Berlin",
+        "guest_of": "Afrojack",
+        "favourite_dj": "Avici"
+    }
+]
